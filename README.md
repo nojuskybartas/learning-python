@@ -1,2 +1,2 @@
 # Summary
-* Faster & more readable code: [Becoming pythonic]("becoming_pythonic.md")
+* Faster & more readable code: [Becoming pythonic](becoming_pythonic.md)
